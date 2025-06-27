@@ -31,9 +31,4 @@ A decentralized Web3 application to issue, manage, and verify blockchain-backed 
 - Node.js (v16+ recommended)
 - Metamask or compatible Web3 wallet
 
-### Installation
 
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/blockcertify.git
-   cd blockcertify
